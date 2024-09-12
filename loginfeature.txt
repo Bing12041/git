@@ -1,12 +1,9 @@
-<<<<<<< HEAD
 line added by main
 
 This is my login implementation
 
 another line added by main
-=======
 
 loginfeature addition
 
 This is my login implementation
->>>>>>> loginfeature
